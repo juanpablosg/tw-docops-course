@@ -31,3 +31,11 @@
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+
+**This is a different code block**:
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
