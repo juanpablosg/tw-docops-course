@@ -6,16 +6,19 @@
 
 ---
 **My bulleted list**:
+
 - Item 1
 - Item 2
 
 ---
 **My numbered list**:
+
 1. Item 1
 2. Item 2
 
 ---
 **My table**:
+
 | Title 1  | Title 2 |
 | -------- |---------|
 | row 1    | lorem   |
@@ -23,6 +26,15 @@
 
 ---
 **My code block**:
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+
+**This is a different code block**:
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
