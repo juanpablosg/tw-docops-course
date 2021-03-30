@@ -1,12 +1,18 @@
-site_name: Wizeline MkDocs Template
+site_name: Juan Pablo's TW Profile
 nav:
-  - Home: index.md
-  - About: about.md
-  - ReadmeJp: README-JP.md
+  - About: index.md
+  - Education: education.md
+  - Experience: experience.md
+  - 'Skills':
+    - 'Technical Writing': 'skill-1.md'
+    - 'Written and Spoken English': 'skill-2.md'
+    - 'Adobe Creative Suite': 'skill-3.md'
+  - Selected Past Work: past-work.md
+  - README Exercise: README-JP.md
 
 theme:
   name: material
-  palette:
-    primary: black
-    accent: indigo
   logo: images/wizeline_isotype.png
+
+extra_css:
+  - css/style.css
